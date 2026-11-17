@@ -1,0 +1,134 @@
+[
+  {
+    "flower_code": "01_0001",
+    "flower_group": "Cut Flowers",
+    "flower_name": "Red Velvet Rose",
+    "scientific_name": "Rosa hybrida",
+    "native_name": "Улаан хилэн сарнай",
+    "origin": "Netherlands",
+    "pricing_stock": {
+      "Unit price (MNT)": 8500,
+      "Stem length (cm)": 60,
+      "Stock quantity": 120,
+      "Vase life (days)": 10
+    },
+    "care_requirements": {
+      "Sunlight": "Indirect bright light",
+      "Watering frequency": "Change water every 2 days",
+      "Optimal temp (°C)": 18
+    },
+    "botanical_details": {
+      "Fragrance level": "Medium",
+      "Petals count": 35,
+      "Thorns": "Yes"
+    },
+    "origin_information": {
+      "Supplier": "Royal FloraHolland",
+      "Arrival date": "15.11.2026",
+      "Care note": "Cut stems at a 45-degree angle before placing in water"
+    },
+    "bouquet_suitability": {
+      "Occasion": "Valentine's Day, Anniversary",
+      "Color meaning": "Deep love and romance"
+    }
+  },
+  {
+    "flower_code": "01_0002",
+    "flower_group": "Cut Flowers",
+    "flower_name": "White Peony",
+    "scientific_name": "Paeonia lactiflora",
+    "native_name": "Цагаан цээнэ",
+    "origin": "Ecuador",
+    "pricing_stock": {
+      "Unit price (MNT)": 14000,
+      "Stem length (cm)": 55,
+      "Stock quantity": 45,
+      "Vase life (days)": 7
+    },
+    "care_requirements": {
+      "Sunlight": "Cool shaded spot",
+      "Watering frequency": "Daily fresh cold water",
+      "Optimal temp (°C)": 16
+    },
+    "botanical_details": {
+      "Fragrance level": "Sweet & Strong",
+      "Petals count": 60,
+      "Thorns": "No"
+    },
+    "origin_information": {
+      "Supplier": "Andes Blooms Co.",
+      "Arrival date": "16.11.2026",
+      "Care note": "Keep away from direct heat and ripening fruit"
+    },
+    "bouquet_suitability": {
+      "Occasion": "Wedding, Bridal Bouquet",
+      "Color meaning": "Purity, prosperity, and honor"
+    }
+  },
+  {
+    "flower_code": "02_0001",
+    "flower_group": "Indoor Potted Plants",
+    "flower_name": "Moth Orchid (Phalaenopsis)",
+    "scientific_name": "Phalaenopsis amabilis",
+    "native_name": "Эрвээхэй цахирмаа",
+    "origin": "South Korea",
+    "pricing_stock": {
+      "Unit price (MNT)": 65000,
+      "Stem length (cm)": 45,
+      "Stock quantity": 18,
+      "Vase life (days)": 90
+    },
+    "care_requirements": {
+      "Sunlight": "Filtered morning sun",
+      "Watering frequency": "Once a week (soak bark)",
+      "Optimal temp (°C)": 22
+    },
+    "botanical_details": {
+      "Fragrance level": "None",
+      "Petals count": 5,
+      "Thorns": "No"
+    },
+    "origin_information": {
+      "Supplier": "Seoul Orchid Farm",
+      "Arrival date": "10.11.2026",
+      "Care note": "Do not let water sit in the crown of leaves"
+    },
+    "bouquet_suitability": {
+      "Occasion": "Housewarming, Office Gift",
+      "Color meaning": "Elegance, luxury, and long-lasting beauty"
+    }
+  },
+  {
+    "flower_code": "03_0001",
+    "flower_group": "Dried & Preserved Flowers",
+    "flower_name": "French Lavender Bundle",
+    "scientific_name": "Lavandula angustifolia",
+    "native_name": "Франц лаванда",
+    "origin": "France",
+    "pricing_stock": {
+      "Unit price (MNT)": 25000,
+      "Stem length (cm)": 40,
+      "Stock quantity": 35,
+      "Vase life (days)": 365
+    },
+    "care_requirements": {
+      "Sunlight": "Dry indoor area",
+      "Watering frequency": "Do not water",
+      "Optimal temp (°C)": 20
+    },
+    "botanical_details": {
+      "Fragrance level": "Strong & Calming",
+      "Petals count": 100,
+      "Thorns": "No"
+    },
+    "origin_information": {
+      "Supplier": "Provence Botanicals",
+      "Arrival date": "01.11.2026",
+      "Care note": "Keep away from high humidity to preserve color"
+    },
+    "bouquet_suitability": {
+      "Occasion": "Home Decor, Relaxation Gift",
+      "Color meaning": "Serenity, grace, and calmness"
+    }
+  }
+]

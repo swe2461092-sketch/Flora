@@ -1,0 +1,32 @@
+{
+  "name": "flower_shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch --quiet src/scss/main.scss src/css/main.css",
+    "generate:images": "node src/tools/generate-images-json.mjs",
+    "build": "sass --quiet scss/main.scss css/main.css",
+    "dev": "npm run build && live-server .",
+    "start": "live-server src/css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "bulma": "^1.0.4",
+    "sass": "^1.99.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+}https://github.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/swe2461092-sketch/Flora/issues"
+  },
+  "homepage": "https://github.com/swe2461092-sketch/Flora#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}

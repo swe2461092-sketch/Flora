@@ -1,0 +1,29 @@
+@use "sass:color";
+// Цэцгийн дэлгүүрийн өнгөний палитр
+$primaryColor: #e84393; // Сарнайн ягаан
+$primaryColorDark: color.scale($primaryColor, $lightness: -15%);
+$secondaryColor: #00b894; // Навчны ногоон
+$secondaryColorDark: color.scale($secondaryColor, $lightness: -15%);
+
+:root {
+  --border: #f3e8ee;
+  --sidebar-width: clamp(280px, 22vw, 340px);
+  --sidebar-bg: #ffffff;
+  --page-bg: #ffffff;
+  --text-main: #2d3436;
+  --text-soft: #636e72;
+  --pink: #e84393;
+  --green: #00b894;
+  --orange: #fd79a8;
+  --active-bg: #fff0f6;
+  --hover-bg: #fdf6f9;
+  --overlay: rgba(15, 23, 42, 0.55);
+}
+
+@import "../../node_modules/bulma/bulma";
+@import "./components/buttons";
+@import "./components/navbar";
+@import "./layouts/sidebarPageLayout";
+@import "./components/sidebarMenuList";
+@import "./layouts/pageTableContentsLayout";
+@import "./components/imageModal";
